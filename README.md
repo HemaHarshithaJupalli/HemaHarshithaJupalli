@@ -21,17 +21,18 @@ You can follow the below steps:
 
 -->
 
-# Hi 👋, I'm Hema Harshitha Jupalli, an aspiring software and web developer.
+# Hi 👋, I'm Hema Harshitha Jupalli, an aspiring software and data engineer.
 
 🎓 Education:
 
 Undergraduate in Computer Science with a specialization in Big Data Analytics and a Minor in Robotics from SRM University AP (2021-2025)
 
-💻 Interests:
+💻 **Interests:**  
+- Software Development  
+- Web Development  
+- Data Analysis  
+- Exploring cutting-edge technologies  
 
--Software Development
--Web Development
--Exploring cutting-edge technologies
 
 I'm Currently learning and building cool projects while improving my coding and language skills (including Japanese!).
 
